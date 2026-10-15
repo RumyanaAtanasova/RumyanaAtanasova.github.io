@@ -2,7 +2,7 @@
   "applinks": {
     "details": [
       {
-        "appIDs": ["JQ29TUS2B9.com.paysafe.payments.MobileSDK-demo"],
+        "appID": "JQ29TUS2B9.com.paysafe.payments.MobileSDK-demo",
         "paths": [
           "/braintree-payments/*"
         ]
